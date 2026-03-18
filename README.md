@@ -27,7 +27,7 @@ Property prices in Baku vary significantly based on location, size, floor, and c
 
 <img width="1915" height="950" alt="Image" src="https://github.com/user-attachments/assets/75afaf01-29d0-4bcf-9caa-6c03b13efaef" />
 
-<img width="1917" height="947" alt="Image" src="https://github.com/user-attachments/assets/3bb0c058-d099-426d-99ca-e50d5eca51d1" />
+<img width="1917" height="947" alt="Image" src="https://github.com/user-attachments/assets/cc28cde4-caa7-4865-a494-915eb2c76733" />
 
 ---
 
@@ -153,7 +153,7 @@ Key improvements:
 ## App Screenshot
 
 > User selects location on map, fills in property details, and gets an instant price estimate in AZN.
-<img width="1139" height="746" alt="Image" src="https://github.com/user-attachments/assets/77447f14-fac1-4072-bf21-1a152b94ef40" />
+<img width="1139" height="746" alt="Image" src="https://github.com/user-attachments/assets/d8f5db45-a3a4-465c-baca-afb421bd118b" />
 ---
 
 ## Future Improvements

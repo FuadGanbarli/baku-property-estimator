@@ -25,7 +25,7 @@ Property prices in Baku vary significantly based on location, size, floor, and c
 
 ## Data visualization
 
-<img width="1915" height="950" alt="Image" src="https://github.com/user-attachments/assets/194d22f8-cc94-4af8-9d48-fe05ba8fe732" />
+<img width="1915" height="950" alt="Image" src="https://github.com/user-attachments/assets/75afaf01-29d0-4bcf-9caa-6c03b13efaef" />
 
 <img width="1917" height="947" alt="Image" src="https://github.com/user-attachments/assets/3bb0c058-d099-426d-99ca-e50d5eca51d1" />
 

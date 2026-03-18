@@ -1,0 +1,14 @@
+streamlit
+xgboost
+joblib
+numpy
+pandas
+scikit-learn
+folium
+streamlit-folium
+geopy
+matplotlib
+math
+time
+requests
+numpy

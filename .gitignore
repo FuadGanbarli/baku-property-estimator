@@ -1,8 +1,1 @@
-venv/
-env/
-__pycache__/
-*.pyc
-csv/
 .env
-.vscode/
-node_modules/
